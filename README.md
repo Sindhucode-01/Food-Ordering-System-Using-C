@@ -19,7 +19,7 @@ A console-based food ordering and management system built in C using structures,
 ## Technologies
 - C Programming Language
 
-## How to Run
+## How to Run the program
 
 1. Open the project in VS Code or any C compiler.
 2. Compile the `main.c` file.
